@@ -1,0 +1,19 @@
+:host {
+
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  /*height: 256px;
+  width: 1398px;*/
+  height: 100%;
+  width: 100%;
+  border: 1px solid blue;
+}
+.chart {
+  width: 100%;
+  height: 100% ;
+  border: 1px solid red;
+}
